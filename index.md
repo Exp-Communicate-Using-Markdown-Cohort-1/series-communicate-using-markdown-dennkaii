@@ -7,3 +7,7 @@ Step 2:
 git init
 git clone <random dir>
 ````
+
+- [x] Turn on GitHub Pages
+- [ ] What?
+- [x] Introduce myself to the world
